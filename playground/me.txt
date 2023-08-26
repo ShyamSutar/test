@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shyam
+Skills: HTML, CSS, JS, Next.js, TailwindCss, Prisma, etc
+Email: shyamsutar629@gmail.com
+{{/user}}
